@@ -1,1 +1,1 @@
-indux.html
+index.html
